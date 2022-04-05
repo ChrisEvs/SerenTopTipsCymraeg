@@ -1,0 +1,32 @@
+﻿{
+    "textBodysTopTip": [
+        {
+            "textTopTip": "The insulin that you are using can be kept at room temperature for 28 days",
+            "textCymTopTip": "Mae modd cadw'r inswlin rydych chi'n ei ddefnyddio ar dymheredd ystafell am 28 diwrnod"
+        },
+        {
+            "textTopTip": "It is important to keep it away from a radiator or direct sunlight",
+            "textCymTopTip": "Mae'n bwysig ei gadw i ffwrdd o wresogydd neu olau haul uniongyrchol"
+        },
+        {
+            "textTopTip": "The insulin that you are not using needs to be kept in the fridge",
+            "textCymTopTip": "Mae angen cadw'r inswlin na fyddwch chi'n ei ddefnyddio yn yr oergell"
+        },
+        {
+            "textTopTip": "When you are on holiday in a hot country, you will need to keep your insulin cool",
+            "textCymTopTip": "Pan fyddwch chi ar wyliau mewn gwlad boeth, bydd angen i chi gadw'ch inswlin yn oer"
+        },
+        {
+            "textTopTip": "When you collect your insulin from the pharmacy, it is important to check that you have been given the correct insulin.  There are different strengths of insulin, so it is important to check that you have the correct one and that it has come from the fridge",
+            "textCymTopTip": "Pan fyddwch chi'n casglu'ch inswlin o'r fferyllfa, mae'n bwysig gofalu eich bod wedi cael yr inswlin cywir. Mae inswlin ar gael mewn gwahanol gryfder, felly mae'n bwysig gofalu bod yr un cywir gennych a'i fod wedi dod o'r oergell"
+        },
+        {
+            "textTopTip": "It is important to check the insulin is still in date and that the vial is not broken or leaking",
+            "textCymTopTip": "Mae'n bwysig gofalu bod yr inswlin o fewn y dyddiad cadw ac nad yw'r ffiol wedi torri na'n gollwng"
+        },
+        {
+            "textTopTip": "Check that the insulin is clear and has not crystallised",
+            "textCymTopTip":"Gofalwch fod yr inswlin yn glir ac nad yw wedi grisialu na throi'n lympiau"
+        }
+    ]
+}
